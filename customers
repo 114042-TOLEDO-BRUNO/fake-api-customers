@@ -1,0 +1,56 @@
+[
+{
+  "idCustomer": 1,
+  "firstName": "Bruno",
+  "lastName": "Toledo",
+  "companyName": null,
+  "ivaCondition": "consumidor final",
+  "email": "vruno@vruno.com",
+  "phoneNumber": "351-7405221",
+  "address": "san martin 222",
+  "birthDate": "1986-10-08T11:16:52.293Z",
+  "documentType": "documento unico",
+  "documentNumber": 11111111,
+  "customerType": {
+  "idCustomerType":1,
+  "description": "bronce"
+  },
+  "createdAt": "2023-10-12T11:16:52.293Z"
+},
+{
+  "idCustomer": 2,
+  "firstName": "Jorge",
+  "lastName": "Toledo",
+  "companyName": null,
+  "ivaCondition": "consumidor final",
+  "email": "vruno@vruno.com",
+  "phoneNumber": "351-7405221",
+  "address": "san martin 222",
+  "birthDate": "1986-10-08T11:16:52.293Z",
+  "documentType": "documento unico",
+  "documentNumber": 11111111,
+  "customerType": {
+  "idCustomerType":1,
+  "description": "bronce"
+  },
+  "createdAt": "2023-10-12T11:16:52.293Z"
+},
+{
+  "idCustomer": 3,
+  "firstName": "Emanuel",
+  "lastName": "Toledo",
+  "companyName": null,
+  "ivaCondition": "consumidor final",
+  "email": "vruno@vruno.com",
+  "phoneNumber": "351-7405221",
+  "address": "san martin 222",
+  "birthDate": "1986-10-08T11:16:52.293Z",
+  "documentType": "documento unico",
+  "documentNumber": 11111111,
+  "customerType": {
+  "idCustomerType":1,
+  "description": "bronce"
+  },
+  "createdAt": "2023-10-12T11:16:52.293Z"
+}
+]
